@@ -1,0 +1,7 @@
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe.config
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\bin\Debug\SocketClientStarter.pdb
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csprojResolveAssemblyReference.cache
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\obj\Debug\SocketClientStarter.exe
+C:\Users\tapos\Desktop\socker_programming\SocketServerStarter\SocketClientStarter\obj\Debug\SocketClientStarter.pdb
